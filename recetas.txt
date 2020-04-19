@@ -1,3 +1,4 @@
 Receta 1: bacon frito -> echar el bacon y que se fria.
 Receta 2: Espaguetis -> Los hierves y les echas tomate.
 Receta 3: Arroz con marisco
+Receta 4: calamares y gambas.
